@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+	padding: 0;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 8%;
+    background-color: rgb(53 80 195);
+}
+
+
+div {
+    text-align: center;
+    position: absolute;
+    bottom: 10%;
+    top: 31%;
+    width: 100%;
+}
+
+#buttonLogin {
+    padding: 1% 4.5%;
+    background-color: rgb(230 67 68);
+    color: white;
+    border: hidden;
+    border-radius: 2px;
+    position: relative;
+    left: 70px;
+}
+
+.loginInput {
+    padding: 1% 1%;
+    padding-right: 8%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 16%;
+    background-color: rgb(92 92 92);
+}
+
